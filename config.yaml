@@ -1,0 +1,23 @@
+dataset_folder: "dataset"
+
+train: 0.7
+val: 0.2
+test: 0.1
+
+model: "yolov8n"
+
+epochs: 30
+batch_size: 32
+image_size: 224
+
+output_folder: "runs"
+
+augmentation:
+  flipud: 0.3
+  fliplr: 0.5
+  degrees: 15
+  scale: 0.3
+  hsv_h: 0.02
+  hsv_s: 0.5
+  hsv_v: 0.3
+  erasing: 0.2
