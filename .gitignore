@@ -1,0 +1,8 @@
+dataset/
+drive/
+drone-vs-bird.zip
+sample_data/
+.config/
+runs/
+__pycache__/
+*.pt
