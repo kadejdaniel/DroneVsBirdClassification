@@ -81,6 +81,7 @@ Only **3 misclassifications per class** out of 241 birds and 374 drones in the t
 
 ### Prediction Examples
 ![Prediction examples](docs/val_batch_pred.jpg)
+![Prediction examples 2](docs/val_batch_pred2.jpg)
 
 Augmented validation batch with predicted labels. The model correctly identifies both close-up and distant objects across varied lighting and backgrounds.
 
